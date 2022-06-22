@@ -2,6 +2,7 @@ version: "3.1"
 
 intents:
   - greet
+  - chear_up
   - goodbye
   - affirm
   - deny
@@ -22,12 +23,15 @@ responses:
 
   utter_happy:
   - text: "Great, carry on!"
+  - text: "Happy to hear that!"
 
   utter_goodbye:
   - text: "Bye"
+  - text: "See you ~"
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+  - text: "I am DaseinBot, powered by Rasa, designed by Tracy."
 
 session_config:
   session_expiration_time: 60
