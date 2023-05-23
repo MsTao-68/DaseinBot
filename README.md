@@ -1,4 +1,4 @@
-# Dasein-Bot
+# Dasein-Bot （数据和代码未公开）
 A repository for Dasein-Bot, namely conversational AI &amp; task-oriented AI using open-source RASA framework.
 ## About myself
 Currently, I'm a student in senior class in Shanghai University of International Business and Economics, working on progress in the preparation for postgraduate entrance exam.
