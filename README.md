@@ -1,7 +1,7 @@
 # Dasein-Bot （数据和代码未公开）
 A repository for Dasein-Bot, namely conversational AI &amp; task-oriented AI using open-source RASA framework.
 ## About myself
-Currently, I'm a student in senior class in Shanghai University of International Business and Economics, working on progress in the preparation for postgraduate entrance exam.
+Currently, I'm a student in senior class in Shanghai University of International Business and Economics.（本文选题任务型智能对话系统研究并进行对话场景设计，旨在为我过去的三到五年画上句号，算是完成高中时期工科学校的执念。作为一个高考数学没有及格并且转专业进大数据系的同学，在上海对外经贸大学本科四年期间是一件非常具有挑战性的事情。）
 ### About my knowledge and expectations
 Based on my bachelor degree of Data Science and Big Data Technology, I've studied the basis of Maths of AI, including Mathematics Analysis, Probability Theory A-level, Mathamatical Statistics, Linear Algebra A-level, as well as have studied and made experiments of algorithms of AI, including traditional Machine Learning, Deep Learning, Time Seires Analysis, etc.
 In the second semester of junior year, during the process of the NLP course, I made good academic performance with the IMDB sentiment analysis project (including: ML methods, pre-trained Bert model, bert-pretrained Transformer model). Besides, I gain the general knowledge of NLP by read a few paper. I hope the after going through `Dasein-Bot project`, I will be more familiar with NLP, NLU, NLG, (Knowledge Graph if possible) and further my knowledge in chatbot in details.
